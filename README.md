@@ -2,27 +2,25 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/rameshbabuvfx/AppLauncher)](https://github.com/rameshbabuvfx/AppLauncher/issues)  ![GitHub release (latest by date)](https://img.shields.io/github/downloads/rameshbabuvfx/AppLauncher/v0.1.0/total)
 
-### Description.
+### 描述
 
-AppLauncher is a simple software that allows you to launch multiple DCC(`Digital Content Creation`) applications from single software.
+AppLauncher 是一款简洁的工具，允许你通过单一程序启动多款数字内容创作（DCC）应用程序。
 
-### ScreenShot.
+### 截图
 
 ![applauncher.png](./assets/1640672686042-app-launcher.png)
 
-### Installation.
+### 安装方法
 
-* Clone the [app-launcher](https://github.com/rameshbabuvfx/app-launcher) git repo.
+* 克隆 [app-launcher](https://github.com/rameshbabuvfx/app-launcher) Git 仓库。
 
-```
+
 https://github.com/rameshbabuvfx/app-launcher.git
-```
 
-* Goto dist folder from your cloned repo you can find appLauncher.exe setup file.
+
+* 进入克隆仓库中的 dist 文件夹，你可以找到 appLauncher.exe 安装文件。
 
 ```
 appLauncher.exe
 ```
-* Double click and install software.
-
-
+* 双击并安装软件。
