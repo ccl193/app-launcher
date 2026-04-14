@@ -1,26 +1,16 @@
-# AppLauncher
+# Cgorun_Launcher
 
-[![GitHub issues](https://img.shields.io/github/issues/rameshbabuvfx/AppLauncher)](https://github.com/rameshbabuvfx/AppLauncher/issues)  ![GitHub release (latest by date)](https://img.shields.io/github/downloads/rameshbabuvfx/AppLauncher/v0.1.0/total)
+[![GitHub issues](https://img.shields.io/github/issues/ccl193/Cgorun_Launcher)](https://github.com/ccl193/Cgorun_Launcher/issues)  
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/ccl193/Cgorun_Launcher/total)
 
-### 描述
+### 项目介绍
 
-AppLauncher 是一款简洁的工具，允许你通过单一程序启动多款数字内容创作（DCC）应用程序。
+Cgorun_Launcher 是一款专为 CG & DCC 数字内容创作领域打造的快速启动工具，支持一键启动 Maya、3ds Max、Blender、Houdini、C4D、UE 等各类专业软件。
 
-### 截图
+### 软件截图
 
-![applauncher.png](./assets/1640672686042-app-launcher.png)
+![Cgorun_Launcher.png](./assets/1640672686042-app-launcher.png)
 
 ### 安装方法
 
-* 克隆 [app-launcher](https://github.com/rameshbabuvfx/app-launcher) Git 仓库。
-
-
-https://github.com/rameshbabuvfx/app-launcher.git
-
-
-* 进入克隆仓库中的 dist 文件夹，你可以找到 appLauncher.exe 安装文件。
-
-```
-appLauncher.exe
-```
-* 双击并安装软件。
+* 克隆 [Cgorun_Launcher](https://github.com/ccl193/Cgorun_Launcher) 仓库
